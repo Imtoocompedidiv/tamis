@@ -339,9 +339,7 @@ export default function App() {
           Traitement local dans votre navigateur. CSV UTF-8 · 2 Mo · 20 000
           lignes maximum.
         </span>
-        <a href="https://imtoocompedidiv.github.io/portfolio/">
-          JD
-        </a>
+        <a href="https://imtoocompedidiv.github.io/portfolio/">JD</a>
       </footer>
     </>
   );
