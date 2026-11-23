@@ -67,4 +67,4 @@ npm run build
 
 ## Crédits
 
-Projet de JD. React, Vite, TypeScript et Vitest ; Manrope et IBM Plex Mono distribuées via Fontsource. Les exemples sont fictifs. Licence MIT pour le code du projet ; les dépendances conservent leurs licences.
+React, Vite, TypeScript et Vitest ; Manrope et IBM Plex Mono distribuées via Fontsource. Les exemples sont fictifs. Licence MIT pour le code du projet ; les dépendances conservent leurs licences.
